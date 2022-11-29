@@ -1,1 +1,1 @@
-#React dojo blog. 
+#React dojo blog
